@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atv Herança", "Atv Herança\Atv Herança.csproj", "{51751641-C7CE-421D-952D-C9A9B92AF752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51751641-C7CE-421D-952D-C9A9B92AF752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51751641-C7CE-421D-952D-C9A9B92AF752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51751641-C7CE-421D-952D-C9A9B92AF752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51751641-C7CE-421D-952D-C9A9B92AF752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B49B590-BEE8-4A4A-9146-CC58D9E812DA}
+	EndGlobalSection
+EndGlobal
